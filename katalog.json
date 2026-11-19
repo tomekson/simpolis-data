@@ -1,0 +1,156 @@
+{
+ "schema": 1,
+ "updatedAt": "2026-11-19T12:51:39.016Z",
+ "harmo": {
+  "fetchedAt": "2026-11-19T12:51:37.982Z",
+  "rows": [
+   {
+    "key": "2026-11-19|17:30|skill port vsem",
+    "type": "Skill-Port VŠEM",
+    "date": "2026-11-19",
+    "time": "17:30",
+    "terminRaw": "19.11.2026, 17:30 hod.",
+    "speaker": "Renata Pospíchalová & Petra Prokůpková Kolenská, HR manažerka & konzultantka firemní komunikace v Lidl ČR",
+    "title": "Lidl zevnitř: Jak funguje HR a komunikace pro 12 000+ zaměstnanců",
+    "place": "prezenčně",
+    "signup": "v SIS VŠEM",
+    "viaSis": true,
+    "online": false
+   },
+   {
+    "key": "2026-11-20|22:00|opening party vsem",
+    "type": "Opening Party VŠEM",
+    "date": "2026-11-20",
+    "time": "22:00",
+    "terminRaw": "20.11.2026, 22:00 hod.",
+    "speaker": "Studentský klub VŠEM",
+    "title": "Opening Party VŠEM",
+    "place": "prezenčně",
+    "signup": "vstupenky",
+    "viaSis": false,
+    "online": false
+   },
+   {
+    "key": "2026-12-04|18:30|beerpong tournament vsem",
+    "type": "BeerPong Tournament VŠEM",
+    "date": "2026-12-04",
+    "time": "18:30",
+    "terminRaw": "4.12.2026, 18:30 hod.",
+    "speaker": "Studentský klub VŠEM",
+    "title": "BeerPong evening na VŠEM",
+    "place": "prezenčně",
+    "signup": "bude upřesněno",
+    "viaSis": false,
+    "online": false
+   },
+   {
+    "key": "2026-12-10|17:30|advertising night vsem",
+    "type": "Advertising Night VŠEM",
+    "date": "2026-12-10",
+    "time": "17:30",
+    "terminRaw": "10.12.2026, 17:30 hod.",
+    "speaker": "Břetislav Stromko, David Matoušek & David Abraham, specialisté na marketing",
+    "title": "Advertising Night VŠEM: Christmas Edition",
+    "place": "prezenčně",
+    "signup": "v SIS VŠEM",
+    "viaSis": true,
+    "online": false
+   },
+   {
+    "key": "2026-12-14|17:00|skill port vsem",
+    "type": "Skill-Port VŠEM",
+    "date": "2026-12-14",
+    "time": "17:00",
+    "terminRaw": "14.12.2026, 17:00 hod.",
+    "speaker": "Kateřina Schönová, psycholožka a lektorka",
+    "title": "Umění emoční regulace",
+    "place": "MS Teams",
+    "signup": "v SIS VŠEM",
+    "viaSis": true,
+    "online": true
+   },
+   {
+    "key": "2027-01-12|17:00|setkani se studenty vsem",
+    "type": "Setkání se studenty VŠEM",
+    "date": "2027-01-12",
+    "time": "17:00",
+    "terminRaw": "12.1.2027, 17:00 hod.",
+    "speaker": "Setkání se studenty a absolventy VŠEM",
+    "title": "Neformální setkání v naší Kavárně VŠEM",
+    "place": "prezenčně",
+    "signup": "bez přihlašování",
+    "viaSis": false,
+    "online": false
+   },
+   {
+    "key": "2027-01-12|18:00|dod vsem",
+    "type": "DOD VŠEM",
+    "date": "2027-01-12",
+    "time": "18:00",
+    "terminRaw": "12.1.2027, 18:00 hod.",
+    "speaker": "Den otevřených dveří",
+    "title": "Den otevřených dveří",
+    "place": "prezenčně",
+    "signup": "bez přihlašování",
+    "viaSis": false,
+    "online": false
+   },
+   {
+    "key": "2027-02-05||restart camp",
+    "type": "Restart Camp",
+    "date": "2027-02-05",
+    "time": null,
+    "terminRaw": "5.-7.2.2027",
+    "speaker": "Studentský klub VŠEM",
+    "title": "Restart Camp VŠEM",
+    "place": "prezenčně",
+    "signup": "bude upřesněno",
+    "viaSis": false,
+    "online": false
+   },
+   {
+    "key": "2027-02-09|17:30|hoste vsem",
+    "type": "Hosté VŠEM",
+    "date": "2027-02-09",
+    "time": "17:30",
+    "terminRaw": "9.2.2027, 17:30 hod.",
+    "speaker": "Katerina Demetrashvili & Julie Smejkalová, poslankyně Poslanecké sněmovny PČR",
+    "title": "V diskuzi s prorektorem VŠEM",
+    "place": "prezenčně",
+    "signup": "v SIS VŠEM",
+    "viaSis": true,
+    "online": false
+   },
+   {
+    "key": "2027-02-23|17:00|setkani se studenty vsem",
+    "type": "Setkání se studenty VŠEM",
+    "date": "2027-02-23",
+    "time": "17:00",
+    "terminRaw": "23.2.2027, 17:00 hod.",
+    "speaker": "Setkání se studenty a absolventy VŠEM",
+    "title": "Neformální setkání v naší Kavárně VŠEM",
+    "place": "prezenčně",
+    "signup": "bez přihlašování",
+    "viaSis": false,
+    "online": false
+   },
+   {
+    "key": "2027-02-23|18:00|dod vsem",
+    "type": "DOD VŠEM",
+    "date": "2027-02-23",
+    "time": "18:00",
+    "terminRaw": "23.2.2027, 18:00 hod.",
+    "speaker": "Den otevřených dveří",
+    "title": "Den otevřených dveří",
+    "place": "prezenčně",
+    "signup": "bez přihlašování",
+    "viaSis": false,
+    "online": false
+   }
+  ]
+ },
+ "sis": {
+  "fetchedAt": null,
+  "rows": []
+ }
+}
