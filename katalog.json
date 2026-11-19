@@ -1,8 +1,8 @@
 {
  "schema": 1,
- "updatedAt": "2026-11-19T12:51:39.016Z",
+ "updatedAt": "2026-11-19T13:52:26.441Z",
  "harmo": {
-  "fetchedAt": "2026-11-19T12:51:37.982Z",
+  "fetchedAt": "2026-11-19T13:51:45.540Z",
   "rows": [
    {
     "key": "2026-11-19|17:30|skill port vsem",
@@ -150,7 +150,675 @@
   ]
  },
  "sis": {
-  "fetchedAt": null,
-  "rows": []
+  "fetchedAt": "2026-11-19T13:52:19.436Z",
+  "rows": [
+   {
+    "id": null,
+    "name": "Praktický seminář k BPR",
+    "descrip": "Praktický seminář k bakalářskému projektu, povinná účast na všech 3 termínech, které na sebe obsahově navazují. Seminář povede Mgr. Jiří Boháček, Dr. Termíny konání: 24.10.2026 (09:00-12:00), 7.11.2026 (09:00-12:00), 21.11.2026 (14:00-17:00). REALIZACE V BUDOVĚ VŠEM.",
+    "capacity": 10,
+    "signinFrom": {
+     "date": "2026-09-15",
+     "time": "00:01"
+    },
+    "signinTo": {
+     "date": "2026-10-22",
+     "time": "23:59"
+    },
+    "start": {
+     "date": "2026-10-24",
+     "time": "09:00"
+    },
+    "end": {
+     "date": "2026-11-21",
+     "time": "17:00"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": null,
+    "name": "PA Sociální služby (Bc./Ing.)",
+    "descrip": "Praktická aplikace. Termíny konání: 25.10.2026 (přednáška 14:00 - 17:00) 22.11.2026 (videocvičení 09:00 - 10:30) 06.12.2026 (přednáška 09:00 - 12:00) Lektor: PhDr. Gabriela Ježková Petrů, Ph.D. PŘIHLÁŠENÍ NA PA JE ZÁVAZNÉ S POVINNOU ÚČASTÍ, KTEROU STANOVUJE VYUČUJÍCÍ. Termíny praktické aplikace nesmí kolidovat s termíny výuky studijních předmětů, které má student ve svém rozvrhu. Přihlášení/Odhláš",
+    "capacity": 0,
+    "signinFrom": {
+     "date": "2026-09-03",
+     "time": "10:00"
+    },
+    "signinTo": {
+     "date": "2026-10-22",
+     "time": "12:00"
+    },
+    "start": {
+     "date": "2026-10-25",
+     "time": "14:00"
+    },
+    "end": {
+     "date": "2026-12-06",
+     "time": "12:00"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": null,
+    "name": "Praktický seminář k BPR",
+    "descrip": "Praktický seminář k bakalářskému projektu, povinná účast na všech 3 termínech, které na sebe obsahově navazují. Seminář povede PhDr. Gabriela Ježková Petrů, Ph.D. Termíny konání: 25.10.2026 (17:00-20:00), 8.11.2026 (09:00-12:00), 6.12.2026 (14:00-17:00). REALIZACE V BUDOVĚ VŠEM.",
+    "capacity": 14,
+    "signinFrom": {
+     "date": "2026-09-15",
+     "time": "00:01"
+    },
+    "signinTo": {
+     "date": "2026-10-23",
+     "time": "23:59"
+    },
+    "start": {
+     "date": "2026-10-25",
+     "time": "17:00"
+    },
+    "end": {
+     "date": "2026-12-06",
+     "time": "17:00"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": null,
+    "name": "Ateliér VŠEM: Od frustrace k angažovanosti",
+    "descrip": "Ateliér VŠEM. Termíny konání: 26. 10. 2026 (17:30 - 20:30) 03. 12. 2026 (17:30 - 20:30) 04. 02. 2027 (17:30 - 20:30) 01. 04. 2027 (17:30 - 20:30) 03. 06. 2027 (17:30 - 20:30) Lektor: Mgr. Julie Kaletová. Ateliéry VŠEM vytváří paralelní linii k běžnému studiu – umožňují zažít něco, co se do klasické přednášky zpravidla nevejde: osobní zkušenost, hlubokou interakci a prostor pro vlastní hledání. Pre",
+    "capacity": 12,
+    "signinFrom": {
+     "date": "2026-09-15",
+     "time": "08:00"
+    },
+    "signinTo": {
+     "date": "2026-10-25",
+     "time": "23:59"
+    },
+    "start": {
+     "date": "2026-10-26",
+     "time": "17:30"
+    },
+    "end": {
+     "date": "2027-06-03",
+     "time": "20:30"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": null,
+    "name": "PA Obchodní řetězce neboli Retail v praxi (Bc./Ing.)",
+    "descrip": "Praktická aplikace. Termíny konání: 30.10.2026 (09:00 - 12:00) 06.11.2026 (09:00 - 12:00) 13.11.2026 (09:00 - 12:00) 20.11.2026 (09:00 - 12:00) 27.11.2026 (09:00 - 12:00) Lektor: Martina Hrušínská, MBA PŘIHLÁŠENÍ NA PA JE ZÁVAZNÉ S POVINNOU ÚČASTÍ, KTEROU STANOVUJE VYUČUJÍCÍ. Termíny praktické aplikace nesmí kolidovat s termíny výuky studijních předmětů, které má student ve svém rozvrhu. Přihlášen",
+    "capacity": 19,
+    "signinFrom": {
+     "date": "2026-09-03",
+     "time": "10:00"
+    },
+    "signinTo": {
+     "date": "2026-10-27",
+     "time": "12:00"
+    },
+    "start": {
+     "date": "2026-10-30",
+     "time": "09:00"
+    },
+    "end": {
+     "date": "2026-11-27",
+     "time": "12:00"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": null,
+    "name": "Bakalářský projekt",
+    "descrip": "",
+    "capacity": -9,
+    "signinFrom": {
+     "date": "2026-11-14",
+     "time": "21:00"
+    },
+    "signinTo": {
+     "date": "2026-11-14",
+     "time": "21:05"
+    },
+    "start": {
+     "date": "2026-10-31",
+     "time": "07:00"
+    },
+    "end": {
+     "date": "2026-12-24",
+     "time": "20:00"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": null,
+    "name": "Praktický seminář k BPR",
+    "descrip": "Praktický seminář k bakalářskému projektu, povinná účast na všech 3 termínech, které na sebe obsahově navazují. Seminář povede Ing. Martin Řehoř, Ph.D., MBA Termíny konání: 31.10.2026 (09:00-12:00), 14.11.2026 (09:00-12:00), 21.11.2026 (09:00-12:00). REALIZACE ON-LINE PROSTŘEDNICTVÍM MS TEAMS, KDY KÓD PRO PŘIHLÁŠENÍ DO TÝMU MÁ STUDENT K DISPOZICI V PORTÁLU STUDENTA VŠEM NEJPOZDĚJI DEN PŘED KONÁNÍM",
+    "capacity": 1,
+    "signinFrom": {
+     "date": "2026-09-15",
+     "time": "00:01"
+    },
+    "signinTo": {
+     "date": "2026-10-29",
+     "time": "23:59"
+    },
+    "start": {
+     "date": "2026-10-31",
+     "time": "09:00"
+    },
+    "end": {
+     "date": "2026-11-21",
+     "time": "12:00"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": null,
+    "name": "History of film and audiovision studies",
+    "descrip": "Předmět v anglickém jazyce. Termíny konání: 04.11.2026 09:00 - 12:00 11.11.2026 09:00 - 12:00 18.11.2026 09:00 - 12:00 25.11.2026 09:00 - 12:00 02.12.2026 09:00 - 12:00 Vyučující: Mgr. Ivan Rokošný, Ph.D. Není určeno pro studenty, kteří si zvolili zaměření obsahující studijní předmět Dějiny filmu a audiovize. Přihlášení na tento předmět je závazné s povinnou účastí, kterou stanovuje vyučující. Kon",
+    "capacity": 34,
+    "signinFrom": {
+     "date": "2026-09-04",
+     "time": "10:00"
+    },
+    "signinTo": {
+     "date": "2026-11-01",
+     "time": "12:00"
+    },
+    "start": {
+     "date": "2026-11-04",
+     "time": "09:00"
+    },
+    "end": {
+     "date": "2026-12-02",
+     "time": "12:00"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": null,
+    "name": "PA Daňový systém a administrativa (Bc./Ing.)",
+    "descrip": "Praktická aplikace. Termíny konání: 05.11.2026 (přednáška 09:00 - 12:00) 12.11.2026 (přednáška 09:00 - 12:00) 19.11.2026 (videocvičení 09:00 - 10:30) 26.11.2026 (přednáška 09:00 - 12:00) 03.12.2026 (přednáška 09:00 - 12:00) Lektor: Ing. David Mareš, M.B.A., Ph.D. PŘIHLÁŠENÍ NA PA JE ZÁVAZNÉ S POVINNOU ÚČASTÍ, KTEROU STANOVUJE VYUČUJÍCÍ. Termíny praktické aplikace nesmí kolidovat s termíny výuky st",
+    "capacity": 13,
+    "signinFrom": {
+     "date": "2026-09-03",
+     "time": "10:00"
+    },
+    "signinTo": {
+     "date": "2026-11-02",
+     "time": "12:00"
+    },
+    "start": {
+     "date": "2026-11-05",
+     "time": "09:00"
+    },
+    "end": {
+     "date": "2026-12-03",
+     "time": "12:00"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": null,
+    "name": "Ateliér VŠEM: Sebepoznání",
+    "descrip": "Ateliér VŠEM. Termíny konání: 10. 11. 2026 (17:30 - 20:30) 15. 12. 2026 (17:30 - 20:30) 09. 02. 2027 (17:30 - 20:30) 09. 03. 2027 (17:30 - 20:30) 11. 05. 2027 (17:30 - 20:30) 15. 06. 2027 (17:30 - 20:30) Lektor: Mgr. Petra Kafková, MBA, MBE. Ateliéry VŠEM vytváří paralelní linii k běžnému studiu – umožňují zažít něco, co se do klasické přednášky zpravidla nevejde: osobní zkušenost, hlubokou intera",
+    "capacity": 0,
+    "signinFrom": {
+     "date": "2026-09-15",
+     "time": "08:00"
+    },
+    "signinTo": {
+     "date": "2026-11-07",
+     "time": "12:00"
+    },
+    "start": {
+     "date": "2026-11-10",
+     "time": "17:30"
+    },
+    "end": {
+     "date": "2027-06-15",
+     "time": "20:30"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": null,
+    "name": "PA Mezinárodní vztahy (Bc./Ing.)",
+    "descrip": "Praktická aplikace. Termíny konání: 12.11.2026 (přednáška 09:00 - 12:00) 19.11.2026 (přednáška 09:00 - 12:00) 26.11.2026 (přednáška 09:00 - 12:00) 03.12.2026 (přednáška 09:00 - 12:00) 04.12.2026 (videocvičení 09:00 - 10:30) Lektor: PhDr. Ing. Petr Mašín, Ph.D., DBA PŘIHLÁŠENÍ NA PA JE ZÁVAZNÉ S POVINNOU ÚČASTÍ, KTEROU STANOVUJE VYUČUJÍCÍ. Termíny praktické aplikace nesmí kolidovat s termíny výuky",
+    "capacity": 3,
+    "signinFrom": {
+     "date": "2026-09-03",
+     "time": "10:00"
+    },
+    "signinTo": {
+     "date": "2026-11-09",
+     "time": "12:00"
+    },
+    "start": {
+     "date": "2026-11-12",
+     "time": "09:00"
+    },
+    "end": {
+     "date": "2026-12-04",
+     "time": "10:30"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": null,
+    "name": "Bakalářský projekt",
+    "descrip": "",
+    "capacity": 0,
+    "signinFrom": {
+     "date": "2026-11-23",
+     "time": "20:05"
+    },
+    "signinTo": {
+     "date": "2026-11-23",
+     "time": "20:06"
+    },
+    "start": {
+     "date": "2026-11-15",
+     "time": "11:00"
+    },
+    "end": {
+     "date": "2026-12-31",
+     "time": "22:00"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": null,
+    "name": "Ateliér VŠEM: Marketing bez filtrů",
+    "descrip": "Ateliér VŠEM. Termíny konání 16.11.2026 (17:30 - 20:30) 15.02.2027 (17:30 - 20:30) 17.05.2027 (17:30 - 20:30) Lektor: Mgr. Radka Mikulíková. Ateliéry VŠEM vytváří paralelní linii k běžnému studiu – umožňují zažít něco, co se do klasické přednášky zpravidla nevejde: osobní zkušenost, hlubokou interakci a prostor pro vlastní hledání. Přihlášení/Odhlášení do: 3 dny před konáním prvního setkání (do 12",
+    "capacity": 0,
+    "signinFrom": {
+     "date": "2026-09-15",
+     "time": "08:00"
+    },
+    "signinTo": {
+     "date": "2026-11-13",
+     "time": "12:00"
+    },
+    "start": {
+     "date": "2026-11-16",
+     "time": "17:30"
+    },
+    "end": {
+     "date": "2027-05-17",
+     "time": "20:30"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": null,
+    "name": "Skill-Port VŠEM: Lidl zevnitř | Jak funguje HR a komunikace pro 12 000+ zaměstnanců",
+    "descrip": "Skill-Port VŠEM. Termín konání: čtvrtek 19.11.2026 (17:30 - 19:00). Přednášející: Renata Pospíchalová a Petra Prokůpková Kolenská. Přihlášení/odhlášení do středy 18.11.2026, 23:59 hod. Možnost odevzdat Esej nebo Aplikační studii a získat kredity v rámci písemných prací. Pro možnost odevzdání písemného výstupu je nutné řádně registrovat docházku (studentským průkazem).",
+    "capacity": 0,
+    "signinFrom": {
+     "date": "2026-11-09",
+     "time": "08:40"
+    },
+    "signinTo": {
+     "date": "2026-11-18",
+     "time": "23:59"
+    },
+    "start": {
+     "date": "2026-11-19",
+     "time": "17:30"
+    },
+    "end": {
+     "date": "2026-11-19",
+     "time": "19:00"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": null,
+    "name": "Prezentace SP/ZP/PP/praxe prezenčně v budově VŠEM",
+    "descrip": "Přihlášení na daný termín Prezentace SP/ZP/PP/praxe je podmíněno klasifikací písemné části práce od akademického pracovníka v SIS VŠEM/E-index (1 - 3) nebo klasifikace odborné praxe (ZP). Student s více klasifikovanými pracemi po přihlášení informuje IPC VŠEM, kterou z prací bude prezentovat.",
+    "capacity": 8,
+    "signinFrom": {
+     "date": "2026-07-31",
+     "time": "09:00"
+    },
+    "signinTo": {
+     "date": "2026-11-10",
+     "time": "23:59"
+    },
+    "start": {
+     "date": "2026-11-20",
+     "time": "09:00"
+    },
+    "end": {
+     "date": "2026-11-20",
+     "time": "15:00"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": null,
+    "name": "PA Sportovní management (Bc./Ing.)",
+    "descrip": "Praktická aplikace. Termíny konání: 21.11.2026 (09:00 - 12:00) 22.11.2026 (13:00 - 16:00) 05.12.2026 (13:00 - 14:30) Lektor: doc. PhDr. Jan Šíma, Ph.D. PŘIHLÁŠENÍ NA PA JE ZÁVAZNÉ S POVINNOU ÚČASTÍ, KTEROU STANOVUJE VYUČUJÍCÍ. Termíny praktické aplikace nesmí kolidovat s termíny výuky studijních předmětů, které má student ve svém rozvrhu. Přihlášení/Odhlášení do: 3 dny před konáním PA (do 12:00).",
+    "capacity": 0,
+    "signinFrom": {
+     "date": "2026-09-03",
+     "time": "10:00"
+    },
+    "signinTo": {
+     "date": "2026-11-18",
+     "time": "12:00"
+    },
+    "start": {
+     "date": "2026-11-21",
+     "time": "09:00"
+    },
+    "end": {
+     "date": "2026-12-05",
+     "time": "14:30"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": 6800,
+    "name": "Seminář BPR",
+    "descrip": "Seminář k Bakalářskému projektu (seminář zahrnuje informace k Praktické práci i ke Klauzurní práci, student absolvuje pouze jeden termín). Přihlášení možné do 20. 11. 2026 (12:00). REALIZACE ON-LINE PROSTŘEDNICTVÍM MS TEAMS, KDY KÓD PRO PŘIHLÁŠENÍ DO TÝMU MÁ STUDENT K DISPOZICI V PORTÁLU STUDENTA VŠEM NEJPOZDĚJI V DEN KONÁNÍ AKCE.",
+    "capacity": 116,
+    "signinFrom": {
+     "date": "2026-09-01",
+     "time": "20:00"
+    },
+    "signinTo": {
+     "date": "2026-11-20",
+     "time": "12:00"
+    },
+    "start": {
+     "date": "2026-11-21",
+     "time": "17:00"
+    },
+    "end": {
+     "date": "2026-11-21",
+     "time": "18:00"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": 6849,
+    "name": "Skupinová konzultace k SZZ leden 2027",
+    "descrip": "Obsahem skupinové konzultace bude připomenutí nejdůležitějších informací, které souvisí s uzavřením studia a informace o průběhu státní závěrečné zkoušky (BP/DP/DPR/CP/BPR) a průběhu promocí. Konzultace proběhne on-line prostřednictvím MS Teams, přihlášení do 23.11.2026 23:59. V den konání budou mít studenti k dispozici kód do týmu prostřednictvím Portálu studenta VŠEM, a to nejpozději hodinu před",
+    "capacity": 105,
+    "signinFrom": {
+     "date": "2026-11-03",
+     "time": "00:01"
+    },
+    "signinTo": {
+     "date": "2026-11-23",
+     "time": "23:59"
+    },
+    "start": {
+     "date": "2026-11-24",
+     "time": "17:30"
+    },
+    "end": {
+     "date": "2026-11-24",
+     "time": "19:00"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": null,
+    "name": "Ateliér: Osobní brand jako zdroj vaší kariéry",
+    "descrip": "Ateliér VŠEM. Termíny konání: 26. 11. 2026 (17:30 - 20:30) 01. 12. 2026 (17:30 - 20:30) 08. 12. 2026 (17:30 - 20:30) Lektor: Ing. Paul Čejka, Ph.D., MSt, MRes, MBA. Ateliéry VŠEM vytváří paralelní linii k běžnému studiu – umožňují zažít něco, co se do klasické přednášky zpravidla nevejde: osobní zkušenost, hlubokou interakci a prostor pro vlastní hledání. Prezenční formou v budově VŠEM.",
+    "capacity": 0,
+    "signinFrom": {
+     "date": "2026-10-26",
+     "time": "15:00"
+    },
+    "signinTo": {
+     "date": "2026-11-25",
+     "time": "23:59"
+    },
+    "start": {
+     "date": "2026-11-26",
+     "time": "17:30"
+    },
+    "end": {
+     "date": "2026-12-08",
+     "time": "20:30"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": null,
+    "name": "Praktický seminář k BPR",
+    "descrip": "Praktický seminář k bakalářskému projektu, povinná účast na všech 3 termínech, které na sebe obsahově navazují. Seminář povede Ing. Kamila Tišlerová, Ph.D. Termíny konání: 27.11.2026 (09:00-12:00), 4.12.2026 (09:00-12:00), 18.12.2026 (09:00-12:00). REALIZACE V BUDOVĚ VŠEM.",
+    "capacity": 0,
+    "signinFrom": {
+     "date": "2026-09-15",
+     "time": "00:01"
+    },
+    "signinTo": {
+     "date": "2026-11-25",
+     "time": "23:59"
+    },
+    "start": {
+     "date": "2026-11-27",
+     "time": "09:00"
+    },
+    "end": {
+     "date": "2026-12-18",
+     "time": "12:00"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": null,
+    "name": "Ateliér VŠEM: Od nápadu k fungujícímu projektu",
+    "descrip": "Ateliér VŠEM. Termíny konání: 02.12.2026 (17:30 - 20:30) 14.04.2027 (17:30 - 20:30) 02.06.2027 (17:30 - 20:30) Lektor: Bc. Firas Oukde. Ateliéry VŠEM vytváří paralelní linii k běžnému studiu – umožňují zažít něco, co se do klasické přednášky zpravidla nevejde: osobní zkušenost, hlubokou interakci a prostor pro vlastní hledání. Přihlášení/Odhlášení do: 3 dny před konáním prvního setkání (do 12:00).",
+    "capacity": 0,
+    "signinFrom": {
+     "date": "2026-09-15",
+     "time": "08:00"
+    },
+    "signinTo": {
+     "date": "2026-11-29",
+     "time": "12:00"
+    },
+    "start": {
+     "date": "2026-12-02",
+     "time": "17:30"
+    },
+    "end": {
+     "date": "2027-06-02",
+     "time": "20:30"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": null,
+    "name": "PA Psychologie a psychoterapie (Bc./Ing.)",
+    "descrip": "Praktická aplikace. Termíny konání: 06.12.2026 (09:00 - 12:00) 06.12.2026 (13:00 - 16:00) 12.12.2026 (09:00 - 10:30) Lektor: Ing. Mgr. Stanislav Termann, Ph.D., MBA PŘIHLÁŠENÍ NA PA JE ZÁVAZNÉ S POVINNOU ÚČASTÍ, KTEROU STANOVUJE VYUČUJÍCÍ. Termíny praktické aplikace nesmí kolidovat s termíny výuky studijních předmětů, které má student ve svém rozvrhu. Přihlášení/Odhlášení do: 3 dny před konáním PA",
+    "capacity": 0,
+    "signinFrom": {
+     "date": "2026-09-03",
+     "time": "10:00"
+    },
+    "signinTo": {
+     "date": "2026-12-03",
+     "time": "12:00"
+    },
+    "start": {
+     "date": "2026-12-06",
+     "time": "09:00"
+    },
+    "end": {
+     "date": "2026-12-12",
+     "time": "10:30"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": 6836,
+    "name": "Prezentace SP/ZP/PP/praxe prezenčně v budově VŠEM",
+    "descrip": "Přihlášení na daný termín Prezentace SP/ZP/PP/praxe je podmíněno klasifikací písemné části práce od akademického pracovníka v SIS VŠEM/E-index (1 - 3) nebo klasifikace odborné praxe (ZP). Student s více klasifikovanými pracemi po přihlášení informuje IPC VŠEM, kterou z prací bude prezentovat.",
+    "capacity": 2,
+    "signinFrom": {
+     "date": "2026-09-22",
+     "time": "12:00"
+    },
+    "signinTo": {
+     "date": "2026-11-27",
+     "time": "23:59"
+    },
+    "start": {
+     "date": "2026-12-07",
+     "time": "09:00"
+    },
+    "end": {
+     "date": "2026-12-07",
+     "time": "15:00"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": 6775,
+    "name": "Diplomový seminář (DP/DPR)",
+    "descrip": "Diplomový seminář - povinná účast pro studenty, kteří plánují zpracování diplomové práce (DP) nebo profesní diplomové práce (DPR). Přihlášení do 09. 12. 2026 (23:59). REALIZACE V BUDOVĚ VŠEM.",
+    "capacity": 154,
+    "signinFrom": {
+     "date": "2026-09-01",
+     "time": "20:00"
+    },
+    "signinTo": {
+     "date": "2026-12-09",
+     "time": "23:59"
+    },
+    "start": {
+     "date": "2026-12-10",
+     "time": "12:30"
+    },
+    "end": {
+     "date": "2026-12-10",
+     "time": "13:30"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": 6801,
+    "name": "Seminář BPR",
+    "descrip": "Seminář k Bakalářskému projektu (seminář zahrnuje informace k Praktické práci i ke Klauzurní práci, student absolvuje pouze jeden termín). Přihlášení možné do 9. 12. 2026 (23:59). REALIZACE ON-LINE PROSTŘEDNICTVÍM MS TEAMS, KDY KÓD PRO PŘIHLÁŠENÍ DO TÝMU MÁ STUDENT K DISPOZICI V PORTÁLU STUDENTA VŠEM NEJPOZDĚJI V DEN KONÁNÍ AKCE.",
+    "capacity": 148,
+    "signinFrom": {
+     "date": "2026-09-01",
+     "time": "20:00"
+    },
+    "signinTo": {
+     "date": "2026-12-09",
+     "time": "23:59"
+    },
+    "start": {
+     "date": "2026-12-10",
+     "time": "15:00"
+    },
+    "end": {
+     "date": "2026-12-10",
+     "time": "16:00"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": 6762,
+    "name": "Klauzurní práce (BPR)",
+    "descrip": "Přihlášení na klauzurní práci je možné až po splnění všech povinných předmětů (zakončení zkouškou s klasifikací 1 - 3) a zápočtu ze semináře BPR. Zda je studijní předmět povinný je uvedeno vždy v anotacích studijních předmětů (Typ předmětu). Přihlášení možné do 06. 12. 2026 23:59 hod.",
+    "capacity": 4,
+    "signinFrom": {
+     "date": "2026-07-21",
+     "time": "13:00"
+    },
+    "signinTo": {
+     "date": "2026-12-06",
+     "time": "23:59"
+    },
+    "start": {
+     "date": "2026-12-13",
+     "time": "10:00"
+    },
+    "end": {
+     "date": "2026-12-13",
+     "time": "12:00"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": 6852,
+    "name": "Prezentace SP/ZP/PP/praxe prezenčně v budově VŠEM",
+    "descrip": "Přihlášení na daný termín Prezentace SP/ZP/PP/praxe je podmíněno klasifikací písemné části práce od akademického pracovníka v SIS VŠEM/E-index (1 - 3) nebo klasifikace odborné praxe (ZP). Student s více klasifikovanými pracemi po přihlášení informuje IPC VŠEM, kterou z prací bude prezentovat.",
+    "capacity": 5,
+    "signinFrom": {
+     "date": "2026-11-12",
+     "time": "12:00"
+    },
+    "signinTo": {
+     "date": "2026-12-04",
+     "time": "23:59"
+    },
+    "start": {
+     "date": "2026-12-14",
+     "time": "09:00"
+    },
+    "end": {
+     "date": "2026-12-14",
+     "time": "15:00"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": 6758,
+    "name": "Prezentace SP/ZP/PP/praxe prezenčně v budově VŠEM",
+    "descrip": "Přihlášení na daný termín Prezentace SP/ZP/PP/praxe je podmíněno klasifikací písemné části práce od akademického pracovníka v SIS VŠEM/E-index (1 - 3) nebo klasifikace odborné praxe (ZP). Student s více klasifikovanými pracemi po přihlášení informuje IPC VŠEM, kterou z prací bude prezentovat.",
+    "capacity": 15,
+    "signinFrom": {
+     "date": "2026-07-31",
+     "time": "09:00"
+    },
+    "signinTo": {
+     "date": "2026-12-09",
+     "time": "23:59"
+    },
+    "start": {
+     "date": "2026-12-19",
+     "time": "09:00"
+    },
+    "end": {
+     "date": "2026-12-19",
+     "time": "15:00"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   },
+   {
+    "id": null,
+    "name": "Ateliér vlivu: Od influencerů k vlastnímu hlasu",
+    "descrip": "Ateliér VŠEM. Termíny konání: 23. 03. 2027 (17:30 - 20:30) 30. 03. 2027 (17:30 - 20:30) 06. 04. 2027 (17:30 - 20:30) Lektor: Jakub Mařík. Ateliéry VŠEM vytváří paralelní linii k běžnému studiu – umožňují zažít něco, co se do klasické přednášky zpravidla nevejde: osobní zkušenost, hlubokou interakci a prostor pro vlastní hledání. Prezenční formou v budově VŠEM.",
+    "capacity": 0,
+    "signinFrom": {
+     "date": "2026-10-26",
+     "time": "15:00"
+    },
+    "signinTo": {
+     "date": "2027-03-22",
+     "time": "23:59"
+    },
+    "start": {
+     "date": "2027-03-23",
+     "time": "17:30"
+    },
+    "end": {
+     "date": "2027-04-06",
+     "time": "20:30"
+    },
+    "seenAt": "2026-11-19T13:52:19.436Z"
+   }
+  ]
  }
 }
