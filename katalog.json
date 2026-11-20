@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updatedAt": "2026-11-20T12:11:49.480Z",
+ "updatedAt": "2026-11-20T13:57:53.944Z",
  "harmo": {
   "fetchedAt": "2026-11-20T09:57:27.268Z",
   "rows": [
@@ -150,7 +150,7 @@
   ]
  },
  "sis": {
-  "fetchedAt": "2026-11-20T12:11:42.621Z",
+  "fetchedAt": "2026-11-20T13:57:51.811Z",
   "rows": [
    {
     "id": null,
@@ -173,7 +173,7 @@
      "date": "2026-11-21",
      "time": "17:00"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": null,
@@ -196,7 +196,7 @@
      "date": "2026-12-06",
      "time": "12:00"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": null,
@@ -219,7 +219,7 @@
      "date": "2026-12-06",
      "time": "17:00"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": null,
@@ -242,7 +242,7 @@
      "date": "2027-06-03",
      "time": "20:30"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": null,
@@ -265,7 +265,7 @@
      "date": "2026-11-27",
      "time": "12:00"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": null,
@@ -288,7 +288,7 @@
      "date": "2026-12-24",
      "time": "20:00"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": null,
@@ -311,7 +311,7 @@
      "date": "2026-11-21",
      "time": "12:00"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": null,
@@ -334,7 +334,7 @@
      "date": "2026-11-30",
      "time": "17:00"
     },
-    "seenAt": "2026-11-20T11:29:32.040Z"
+    "seenAt": "2026-11-20T13:10:03.608Z"
    },
    {
     "id": null,
@@ -357,7 +357,7 @@
      "date": "2026-12-02",
      "time": "12:00"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": null,
@@ -380,7 +380,7 @@
      "date": "2026-12-03",
      "time": "12:00"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": null,
@@ -403,7 +403,7 @@
      "date": "2027-06-15",
      "time": "20:30"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": null,
@@ -426,7 +426,7 @@
      "date": "2026-12-04",
      "time": "10:30"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": null,
@@ -449,7 +449,7 @@
      "date": "2026-12-31",
      "time": "22:00"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": null,
@@ -472,7 +472,7 @@
      "date": "2027-05-17",
      "time": "20:30"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": null,
@@ -495,7 +495,7 @@
      "date": "2026-11-20",
      "time": "15:00"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": null,
@@ -518,7 +518,7 @@
      "date": "2026-12-05",
      "time": "14:30"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": 6800,
@@ -564,13 +564,13 @@
      "date": "2026-11-21",
      "time": "18:00"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": 6849,
     "name": "Skupinová konzultace k SZZ leden 2027",
     "descrip": "Obsahem skupinové konzultace bude připomenutí nejdůležitějších informací, které souvisí s uzavřením studia a informace o průběhu státní závěrečné zkoušky (BP/DP/DPR/CP/BPR) a průběhu promocí. Konzultace proběhne on-line prostřednictvím MS Teams, přihlášení do 23.11.2026 23:59. V den konání budou mít studenti k dispozici kód do týmu prostřednictvím Portálu studenta VŠEM, a to nejpozději hodinu před",
-    "capacity": 104,
+    "capacity": 103,
     "signinFrom": {
      "date": "2026-11-03",
      "time": "00:01"
@@ -587,7 +587,7 @@
      "date": "2026-11-24",
      "time": "19:00"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": null,
@@ -610,7 +610,7 @@
      "date": "2026-12-08",
      "time": "20:30"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": null,
@@ -633,7 +633,7 @@
      "date": "2026-12-18",
      "time": "12:00"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": null,
@@ -656,7 +656,7 @@
      "date": "2027-06-02",
      "time": "20:30"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": null,
@@ -679,7 +679,7 @@
      "date": "2026-12-12",
      "time": "10:30"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": 6836,
@@ -702,7 +702,7 @@
      "date": "2026-12-07",
      "time": "15:00"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": 6775,
@@ -725,7 +725,7 @@
      "date": "2026-12-10",
      "time": "13:30"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": 6801,
@@ -748,13 +748,13 @@
      "date": "2026-12-10",
      "time": "16:00"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": 6850,
     "name": "Advertising Night VŠEM | Christmas Edition",
     "descrip": "Advertising night VŠEM - Vánoční speciál. Termín konání: čtvrtek 10.12.2026 (17:30 - 19:30). Přednášející: Břetislav Stromko, David Matoušek a David Abraham. Přihlášení do 9.12.2026, 23:59 hod. Možnost odevzdat Esej nebo Aplikační studii a získat kredity v rámci písemných prací. Pro možnost odevzdání písemného výstupu je nutné řádně registrovat docházku (studentským průkazem).",
-    "capacity": 43,
+    "capacity": 42,
     "signinFrom": {
      "date": "2026-11-04",
      "time": "10:50"
@@ -771,7 +771,7 @@
      "date": "2026-12-10",
      "time": "19:30"
     },
-    "seenAt": "2026-11-20T11:29:32.040Z"
+    "seenAt": "2026-11-20T13:10:03.608Z"
    },
    {
     "id": 6762,
@@ -794,7 +794,7 @@
      "date": "2026-12-13",
      "time": "12:00"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": 6852,
@@ -817,7 +817,7 @@
      "date": "2026-12-14",
      "time": "15:00"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": 6758,
@@ -840,7 +840,7 @@
      "date": "2026-12-19",
      "time": "15:00"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    },
    {
     "id": null,
@@ -863,7 +863,7 @@
      "date": "2027-04-06",
      "time": "20:30"
     },
-    "seenAt": "2026-11-20T12:11:42.621Z"
+    "seenAt": "2026-11-20T13:57:51.811Z"
    }
   ]
  }
