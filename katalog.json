@@ -1,8 +1,8 @@
 {
  "schema": 1,
- "updatedAt": "2026-11-24T10:03:04.752Z",
+ "updatedAt": "2026-11-24T11:14:37.900Z",
  "harmo": {
-  "fetchedAt": "2026-11-24T04:33:09.938Z",
+  "fetchedAt": "2026-11-24T10:33:15.767Z",
   "rows": [
    {
     "key": "2026-12-04|18:30|beerpong tournament vsem",
@@ -124,7 +124,7 @@
   ]
  },
  "sis": {
-  "fetchedAt": "2026-11-24T10:03:03.183Z",
+  "fetchedAt": "2026-11-24T11:14:35.336Z",
   "rows": [
    {
     "id": null,
@@ -147,7 +147,7 @@
      "date": "2026-12-06",
      "time": "12:00"
     },
-    "seenAt": "2026-11-24T10:03:03.183Z"
+    "seenAt": "2026-11-24T11:14:35.336Z"
    },
    {
     "id": null,
@@ -170,7 +170,7 @@
      "date": "2026-12-06",
      "time": "17:00"
     },
-    "seenAt": "2026-11-24T10:03:03.183Z"
+    "seenAt": "2026-11-24T11:14:35.336Z"
    },
    {
     "id": null,
@@ -193,7 +193,7 @@
      "date": "2027-06-03",
      "time": "20:30"
     },
-    "seenAt": "2026-11-24T10:03:03.183Z"
+    "seenAt": "2026-11-24T11:14:35.336Z"
    },
    {
     "id": null,
@@ -216,7 +216,7 @@
      "date": "2026-11-27",
      "time": "12:00"
     },
-    "seenAt": "2026-11-24T10:03:03.183Z"
+    "seenAt": "2026-11-24T11:14:35.336Z"
    },
    {
     "id": null,
@@ -239,7 +239,7 @@
      "date": "2026-12-24",
      "time": "20:00"
     },
-    "seenAt": "2026-11-24T10:03:03.183Z"
+    "seenAt": "2026-11-24T11:14:35.336Z"
    },
    {
     "id": null,
@@ -262,7 +262,7 @@
      "date": "2026-11-30",
      "time": "17:00"
     },
-    "seenAt": "2026-11-24T10:03:03.183Z"
+    "seenAt": "2026-11-24T10:53:20.675Z"
    },
    {
     "id": null,
@@ -285,7 +285,7 @@
      "date": "2026-12-02",
      "time": "12:00"
     },
-    "seenAt": "2026-11-24T10:03:03.183Z"
+    "seenAt": "2026-11-24T11:14:35.336Z"
    },
    {
     "id": null,
@@ -308,7 +308,7 @@
      "date": "2026-12-03",
      "time": "12:00"
     },
-    "seenAt": "2026-11-24T10:03:03.183Z"
+    "seenAt": "2026-11-24T11:14:35.336Z"
    },
    {
     "id": null,
@@ -331,7 +331,7 @@
      "date": "2027-06-15",
      "time": "20:30"
     },
-    "seenAt": "2026-11-24T10:03:03.183Z"
+    "seenAt": "2026-11-24T11:14:35.336Z"
    },
    {
     "id": null,
@@ -354,7 +354,7 @@
      "date": "2026-12-04",
      "time": "10:30"
     },
-    "seenAt": "2026-11-24T10:03:03.183Z"
+    "seenAt": "2026-11-24T11:14:35.336Z"
    },
    {
     "id": null,
@@ -377,7 +377,7 @@
      "date": "2026-12-31",
      "time": "22:00"
     },
-    "seenAt": "2026-11-24T10:03:03.183Z"
+    "seenAt": "2026-11-24T11:14:35.336Z"
    },
    {
     "id": null,
@@ -400,7 +400,7 @@
      "date": "2027-05-17",
      "time": "20:30"
     },
-    "seenAt": "2026-11-24T10:03:03.183Z"
+    "seenAt": "2026-11-24T11:14:35.336Z"
    },
    {
     "id": null,
@@ -423,30 +423,7 @@
      "date": "2026-12-05",
      "time": "14:30"
     },
-    "seenAt": "2026-11-24T10:03:03.183Z"
-   },
-   {
-    "id": 6849,
-    "name": "Skupinová konzultace k SZZ leden 2027",
-    "descrip": "Obsahem skupinové konzultace bude připomenutí nejdůležitějších informací, které souvisí s uzavřením studia a informace o průběhu státní závěrečné zkoušky (BP/DP/DPR/CP/BPR) a průběhu promocí. Konzultace proběhne on-line prostřednictvím MS Teams, přihlášení do 23.11.2026 23:59. V den konání budou mít studenti k dispozici kód do týmu prostřednictvím Portálu studenta VŠEM, a to nejpozději hodinu před",
-    "capacity": 97,
-    "signinFrom": {
-     "date": "2026-11-03",
-     "time": "00:01"
-    },
-    "signinTo": {
-     "date": "2026-11-23",
-     "time": "23:59"
-    },
-    "start": {
-     "date": "2026-11-24",
-     "time": "17:30"
-    },
-    "end": {
-     "date": "2026-11-24",
-     "time": "19:00"
-    },
-    "seenAt": "2026-11-23T22:42:01.716Z"
+    "seenAt": "2026-11-24T11:14:35.336Z"
    },
    {
     "id": null,
@@ -469,7 +446,7 @@
      "date": "2026-11-24",
      "time": "19:00"
     },
-    "seenAt": "2026-11-24T10:03:03.183Z"
+    "seenAt": "2026-11-24T11:14:35.336Z"
    },
    {
     "id": null,
@@ -492,7 +469,7 @@
      "date": "2026-12-08",
      "time": "20:30"
     },
-    "seenAt": "2026-11-24T10:03:03.183Z"
+    "seenAt": "2026-11-24T11:14:35.336Z"
    },
    {
     "id": null,
@@ -515,7 +492,7 @@
      "date": "2026-12-18",
      "time": "12:00"
     },
-    "seenAt": "2026-11-24T09:34:06.941Z"
+    "seenAt": "2026-11-24T11:14:35.336Z"
    },
    {
     "id": null,
@@ -538,7 +515,7 @@
      "date": "2027-06-02",
      "time": "20:30"
     },
-    "seenAt": "2026-11-24T10:03:03.183Z"
+    "seenAt": "2026-11-24T11:14:35.336Z"
    },
    {
     "id": null,
@@ -561,7 +538,7 @@
      "date": "2026-12-12",
      "time": "10:30"
     },
-    "seenAt": "2026-11-24T10:03:03.183Z"
+    "seenAt": "2026-11-24T11:14:35.336Z"
    },
    {
     "id": null,
@@ -584,7 +561,7 @@
      "date": "2026-12-07",
      "time": "15:00"
     },
-    "seenAt": "2026-11-24T10:03:03.183Z"
+    "seenAt": "2026-11-24T11:14:35.336Z"
    },
    {
     "id": 6775,
@@ -607,7 +584,7 @@
      "date": "2026-12-10",
      "time": "13:30"
     },
-    "seenAt": "2026-11-24T10:03:03.183Z"
+    "seenAt": "2026-11-24T11:14:35.336Z"
    },
    {
     "id": 6801,
@@ -630,7 +607,7 @@
      "date": "2026-12-10",
      "time": "16:00"
     },
-    "seenAt": "2026-11-24T10:03:03.183Z"
+    "seenAt": "2026-11-24T11:14:35.336Z"
    },
    {
     "id": 6850,
@@ -653,7 +630,7 @@
      "date": "2026-12-10",
      "time": "19:30"
     },
-    "seenAt": "2026-11-24T10:03:03.183Z"
+    "seenAt": "2026-11-24T10:53:20.675Z"
    },
    {
     "id": 6762,
@@ -676,13 +653,13 @@
      "date": "2026-12-13",
      "time": "12:00"
     },
-    "seenAt": "2026-11-24T10:03:03.183Z"
+    "seenAt": "2026-11-24T11:14:35.336Z"
    },
    {
     "id": 6852,
     "name": "Prezentace SP/ZP/PP/praxe prezenčně v budově VŠEM",
     "descrip": "Přihlášení na daný termín Prezentace SP/ZP/PP/praxe je podmíněno klasifikací písemné části práce od akademického pracovníka v SIS VŠEM/E-index (1 - 3) nebo klasifikace odborné praxe (ZP). Student s více klasifikovanými pracemi po přihlášení informuje IPC VŠEM, kterou z prací bude prezentovat.",
-    "capacity": 15,
+    "capacity": 14,
     "signinFrom": {
      "date": "2026-11-12",
      "time": "12:00"
@@ -699,7 +676,7 @@
      "date": "2026-12-14",
      "time": "15:00"
     },
-    "seenAt": "2026-11-24T10:03:03.183Z"
+    "seenAt": "2026-11-24T11:14:35.336Z"
    },
    {
     "id": 6758,
@@ -722,7 +699,7 @@
      "date": "2026-12-19",
      "time": "15:00"
     },
-    "seenAt": "2026-11-24T09:34:06.941Z"
+    "seenAt": "2026-11-24T11:14:35.336Z"
    },
    {
     "id": null,
@@ -745,7 +722,7 @@
      "date": "2027-04-06",
      "time": "20:30"
     },
-    "seenAt": "2026-11-24T10:03:03.183Z"
+    "seenAt": "2026-11-24T11:14:35.336Z"
    }
   ]
  }
